@@ -6,8 +6,25 @@ RxJava Essentials 中文翻译版
 本书是对Ivan.Morgillo所写一书的中文翻译版本，仅供交流学习使用，严禁商业用途。另外推荐一本姊妹篇《Learning Reactive Programming》。
 
 * 《RxJava Essentials》[翻译中文版电子书](https://www.gitbook.com/book/yuxingxin/rxjava-essentials-cn/)
-
 * 《RxJava Essentials》一书作者[代码样例](https://github.com/hamen/rxjava-essentials)
+
+## GitHub托管
+
+https://github.com/JackChan1999/RxJava-Essentials
+
+## GitBook在线阅读
+
+在线阅读，PDF、ePub、Mobi电子书下载
+
+https://www.gitbook.com/book/alleniverson/rxjava-essentials/welcome
+
+## 给Android开发者的RxJava详解
+
+https://github.com/JackChan1999/RxJava_Docs_For_Android_Developer
+
+## ReactiveX/RxJava文档中文版
+
+https://github.com/JackChan1999/RxDocs
 
 ---
 
