@@ -1,11 +1,13 @@
 RxJava Essentials 中文翻译版
 =======
 
+> 原文链接：https://github.com/yuxingxin/RxJava-Essentials-CN
+
 ![](images/rxjava.jpg)
 
 本书是对Ivan.Morgillo所写一书的中文翻译版本，仅供交流学习使用，严禁商业用途。另外推荐一本姊妹篇《Learning Reactive Programming》。
 
-* 《RxJava Essentials》[翻译中文版电子书](https://www.gitbook.com/book/yuxingxin/rxjava-essentials-cn/)
+* 《RxJava Essentials》[翻译中文版电子书](https://www.gitbook.com/book/alleniverson/rxjava-essentials/details)
 * 《RxJava Essentials》一书作者[代码样例](https://github.com/hamen/rxjava-essentials)
 
 ## GitHub托管
@@ -16,7 +18,7 @@ https://github.com/JackChan1999/RxJava-Essentials
 
 在线阅读，PDF、ePub、Mobi电子书下载
 
-https://www.gitbook.com/book/alleniverson/rxjava-essentials/welcome
+https://www.gitbook.com/book/alleniverson/rxjava-essentials/details
 
 ## 给Android开发者的RxJava详解
 
@@ -128,3 +130,12 @@ public Observable<List<User>> getMostPopularSOusers(int howmany){
 ## 版权说明
 
 RxJava Essentials 中文翻译版 仅供交流学习使用，严禁商业用途。转载请联系作者[yuxingxin](https://github.com/yuxingxin)。
+
+## 关注我
+
+- Email：<619888095@qq.com>
+- CSDN博客：[Allen Iverson](http://blog.csdn.net/axi295309066)
+- 新浪微博：[AndroidDeveloper](http://weibo.com/u/1848214604?topnav=1&wvr=6&topsug=1&is_all=1)
+- GitHub：[JackChan1999](https://github.com/JackChan1999)
+- GitBook：[alleniverson](https://www.gitbook.com/@alleniverson)
+- 个人博客：[JackChan](https://jackchan1999.github.io/)
